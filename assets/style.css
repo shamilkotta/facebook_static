@@ -118,6 +118,7 @@ footer {
   padding: 30px 150px;
   display: flex;
   flex-direction: column;
+  background-color: white;
 }
 
 footer  a {
